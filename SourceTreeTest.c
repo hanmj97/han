@@ -2,9 +2,14 @@
 
 int main()
 {
+  int i = 0;
+
   printf("First oss code\n");
   printf("second oss code\n");
-  printf("마스터 브랜치의 코드를 추가하였음");
 
+  for(int i=0; i=10; i++)
+  {
+    printf("test 브랜치");
+  }
   retrun 0;
 }
